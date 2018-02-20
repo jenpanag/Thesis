@@ -2,4 +2,4 @@ Chapter: Prediction with Expert Advice/ Experts' problem/ Full information game
 
 Expert problem definition:
 
-The learner must predict the next outcome, y_T, of an individual sequence y_1, y_2, ...., y_(T-1). To do so, the learner listens to the advice of N experts. For the prediction of the outcome y_T, the N experts give their individual predictions, which are the estimations e_1, e_2, ...., e_N.  Based on the advice of the experts, the learner makes his own estimation y ̂_t, for the outcome y_t.
+The learner must predict the next outcome, y_t, of an individual sequence y_1, y_2, ...., y_(t-1). To do so, the learner listens to the advice of N experts. For the prediction of the outcome y_T, the N experts give their individual predictions, which are the estimations e_1, e_2, ...., e_N.  Based on the advice of the experts, the learner makes his own estimation y ̂_t, for the outcome y_t.
